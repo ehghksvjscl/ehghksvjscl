@@ -1,6 +1,6 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -11,17 +11,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saemi&fontSize=90&fontColor=FFD700&animation=twinkling)
-<h2>👋 Hi, I’m Uno </h2></br />
-👀 I’m interested in fullstack Developing and Interactive development <br /> 
-🌱 I’m currently learning React and Vue <br/>
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehghksvjscl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer&fontSize=90) -->
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UnoCoding&fontSize=90&fontColor=FFD700&animation=twinkling)
+<br/>![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UnoCoding&fontSize=90&fontColor=FFD700&animation=twinkling)
 ## Hi, I'm Uno&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 I am a <strong>backend developer</strong> and striving to be an <em>full stack developer</em> 😆<br/>
 
