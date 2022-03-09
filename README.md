@@ -1,11 +1,15 @@
 <h3><b>🛠 Tech Stack 🛠</b></h3>
+
+## Backend Skill 🛠
 </br>
 <p>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-  
+</p>
 
- <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+## Front Skill 🛠
+</br>
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 
 
 
