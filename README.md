@@ -12,6 +12,16 @@ I am a <strong>backend developer</strong> and striving to be an <em>full stack d
 
 > [**노션**](https://chemical-quiver-27b.notion.site/Kim-Dowhan-a3eedcedb8324de4869386160939c508)에서 저의 이력을 확인하실 수 있습니다. (2022.06. 업데이트)
 
+<h3><b>🛠 Experience Skill Stacks 🛠</b></h3>
+</br>
+<p>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+  
 <br/>![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UnoCoding&fontSize=90&fontColor=FFD700&animation=twinkling)
 
 ### Statistics
